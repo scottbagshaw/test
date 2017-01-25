@@ -4,6 +4,7 @@
  * @date 03/01/17
  */
 public class Order implements AccountsCommunication {
+	//Comment for github
 	private int orderID;
 	private static int counter;
 	private int assignedEmployee = -1;
